@@ -1,18 +1,18 @@
-#Front End Design
+# Front End Design
 
-##Looks
+## Looks
 Theme:
 Colour Scheme:
 
 
-##Features
+## Features
 -communities
 -anon for now
 
 
 
 
-##Design Mockups
+## Design Mockups
 
-##Pages
+## Pages
 	main
