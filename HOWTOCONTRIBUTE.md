@@ -3,6 +3,8 @@
 
 ## 1. Fork this repository
   A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+  
+  Here is how to do it:
   https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo
   
   
