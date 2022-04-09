@@ -1,2 +1,18 @@
-## malvernapp
-Chat website. Users can sign in using an email and chat to other users on the main chat page.
+#Front End Design
+
+##Looks
+Theme:
+Colour Scheme:
+
+
+##Features
+-communities
+-anon for now
+
+
+
+
+##Design Mockups
+
+##Pages
+	main
