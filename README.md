@@ -1,8 +1,8 @@
 # Front End Design
 
 ## Looks
-Theme:
-Colour Scheme:
+	Theme
+	Colour Scheme
 
 
 ## Features
